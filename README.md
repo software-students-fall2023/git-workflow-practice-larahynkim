@@ -1,4 +1,4 @@
-# Software Development Article Link 
+# **Software Development Article Link**
 "10 essential VS Code tips & tricks for greater productivity"
 https://blog.devgenius.io/vscode-tips-tricks-98c6e2258626 
 
